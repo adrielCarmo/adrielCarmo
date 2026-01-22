@@ -10,6 +10,6 @@ Nos últimos dois anos atuei profissionalmente com estas tecnologias: Docker, Ku
 
 Formado em Ciência da Computação (CR: 9,67/10) pela Uniderp e Técnico em Informática pelo IFMS.
 
-💻 GitHub: https://github.com/adrielCarmo
+💻 LinkedIn: www.linkedin.com/in/adrielcarmoo
 
 📧 adrieldovale7@gmail.com
