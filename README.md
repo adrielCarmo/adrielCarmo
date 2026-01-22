@@ -1,15 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# About
 
+Sou Engenheiro DevOps/SRE com mais de 2 anos de experiência aprimorando infraestruturas legadas e automatizando processos de deploy em ambientes complexos.
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adrielCarmo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adrielCarmo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrielCarmo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Trabalhei em projetos de grande escala, em que migrei 300+ sites institucionais para arquiteturas containerizadas, administrei clusters Kubernetes com 11+ nós e gerenciei ADDS com mais de 70.000 usuários. Ademais, desenvolvi pipelines CI/CD que reduziram erros de deploy em 95% e implementei soluções de IaC que eliminaram provisionamento manual de serviços como BIND9, Zimbra.
 
----
-[![](https://visitcount.itsvg.in/api?id=adrielCarmo&icon=0&color=0)](https://visitcount.itsvg.in)
+No último ano, tenho buscado me especializar em observabilidade e no desenvolvimento full-stack. Nesse sentido, implementei uma stack completa de monitoramento com OpenTelemetry, Jaeger e Grafana, otimizando aplicações containerizadas, reduzindo drasticamente o downtime de APIs. Além disso, corrigi diversas vulnerabilidades críticas de segurança em REST API´s multi-tenant.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Nos últimos dois anos atuei profissionalmente com estas tecnologias: Docker, Kubernetes, Terraform, Ansible, GitLab CI/CD, AWS, Node.js, TypeScript, React, PostgreSQL, MySQL, Linux, Apache, NGINX.
+
+Formado em Ciência da Computação (CR: 9,67/10) pela Uniderp e Técnico em Informática pelo IFMS.
+
+💻 GitHub: https://github.com/adrielCarmo
+📧 adrieldovale7@gmail.com
