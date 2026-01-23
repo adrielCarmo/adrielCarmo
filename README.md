@@ -11,4 +11,5 @@ Nos últimos dois anos, atuei profissionalmente com estas tecnologias: Docker, K
 Formado em Ciência da Computação (CR: 9,67/10) pela Uniderp e Técnico em Informática pelo IFMS.
 
 💻 LinkedIn: www.linkedin.com/in/adrielcarmoo
+
 📧 adrieldovale7@gmail.com
